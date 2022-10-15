@@ -1,0 +1,15 @@
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\bin\Debug\net6.0\Examples005_Condition.exe
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\bin\Debug\net6.0\Examples005_Condition.deps.json
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\bin\Debug\net6.0\Examples005_Condition.runtimeconfig.json
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\bin\Debug\net6.0\Examples005_Condition.dll
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\bin\Debug\net6.0\Examples005_Condition.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\Examples005_Condition.csproj.AssemblyReference.cache
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\Examples005_Condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\Examples005_Condition.AssemblyInfoInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\Examples005_Condition.AssemblyInfo.cs
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\Examples005_Condition.csproj.CoreCompileInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\Examples005_Condition.dll
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\refint\Examples005_Condition.dll
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\Examples005_Condition.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\Examples005_Condition.genruntimeconfig.cache
+C:\Users\alexe\OneDrive\Рабочий стол\examples\Examples001_HelloConsole\Examples005_Condition\obj\Debug\net6.0\ref\Examples005_Condition.dll
